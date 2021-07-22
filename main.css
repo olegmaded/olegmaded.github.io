@@ -1,0 +1,118 @@
+
+html {
+	/*height: 100%; /* Высота родителя блока */
+}
+
+h1 {
+	color:blue;/*Цвет шрифта заголовка*/
+    font-family:URW Chancery L;/*ТИП шрифта заголовка*/
+    font-size: 45px;/*Размер шрифта заголовка*/
+	font-weight: 900;	/*Высота шрифта заголовка*/
+	/*text-align: justify; /*Текст заголовка выравнивается по левому краю*/
+	/*font-variant: small-caps/*Вытягиваем ширину шрифта заголовка*/
+	text-align: center;/*Текст заголовка выравнивается по центру*/
+	margin-top :25px; /* устанавливает величину отступа от верхнего края элемента. */
+    margin-right :25px; /* устанавливает величину отступа от правого края элемента. */
+    margin-bottom :25px; /* устанавливает величину отступа от нижнего края элемента. */
+    margin-left :75px; /* устанавливает величину отступа от левого края элемента. */
+    border:3px solid; /* задаём сплошную границу для всех сторон элемента задаем толщину в пикс*/
+		
+	}
+h2 {
+	color:#808080;/*Цвет шрифта заголовка*/
+    font-family:URW Chancery L;/*ТИП шрифта заголовка*/
+    font-size: 35px;/*Размер шрифта заголовка*/
+	font-variant: small-caps/*Вытягиваем ширину шрифта заголовка*/
+	/*text-align: center;/*Текст заголовка выравнивается по центру*/
+	
+	
+	}
+h3 {
+	color:#0000CD;/*Цвет шрифта заголовка*/
+    font-family:URW Chancery L;/*ТИП шрифта заголовка*/
+    font-size: 45px;/*Размер шрифта заголовка*/
+	font-variant: small-caps/*Вытягиваем ширину шрифта заголовка */
+	text-align: center;/*Текст заголовка выравнивается по центру*/
+}
+header {/*Шапка страницы*/
+    font-family:Courier New;/*ТИП шрифта заголовка*/
+    font-size: 30px;/*Размер шрифта заголовка*/
+	font-weight: 100;	/*Высота шрифта заголовка*/
+    padding: 40px 60px;/*Размер поля вокруг текста */
+    background: #80C8A0;/* Цвет фона */
+	text-align: center;/*Текст шапки страницы выравнивается по центру*/
+}
+body{
+	border: 0px solid black; /* Параметры рамки в вокруг страницы толщина и цвет*/
+	padding: 15px;/*Размер поля вокруг текста */
+	background-attachment: fixed; /* Фиксируем фон веб-страницы */
+    background-image:C:\Users\maded\Desktop\SUBHTML\IMG\abstract-1264071.jpg;/* Путь к фоновому изображению */
+    font-size: 18.5px;/*Размер шрифта основного текста*/
+	font-family:Arial;/*ТИП шрифта основного текста*/
+    color:#000000;/*Цвет шрифта основного текста*/
+	font-weight: normal; /* Нормальное начертание шрифта*/
+	background-color:#FDF5E6; /* Цвет фона */
+	/*margin: 1em 2em; /* отступы у основного поля страницы*/
+	/*text-align: center;*//*Текст выравнивается по центру*/
+	text-align: justify; /*Текст выравнивается по левому краю*/
+	margin: 0; /* Убираем отступы у страницы */	
+	
+	}
+div { 
+    width: 50%; /* Ширина блока */
+    background: #fc0; /* Цвет фона блока */
+    padding: 10px; /* Поля блока*/
+	font-family:Courier New;/*ТИП шрифта в блоке*/
+    font-size: 25px;/*Размер шрифта в блоке*/
+	font-weight: 600;	/*Высота шрифта в блоке*/
+    -moz-box-sizing: border-box; /* Для Firefox */
+    -webkit-box-sizing: border-box; /* Для Safari и Chrome */
+    box-sizing: border-box; /* Для IE и Opera */
+	border: 0px solid #B25538; /*толщина границ блока*/
+	text-align: center;/*Текст заголовка выравнивается по центру*/
+	overflow: auto; /* Добавляем полосы прокрутки */
+    padding-left: 5px; /* Отступ от текста слева */
+	/*background: url(images/hand.png) repeat-y #fc0; /* Цвет фона,путь к фоновому изображению и повторение фона по вертикали */
+
+   }
+footer { /*Подвал страницы*/
+    font-family:Courier New;/*ТИП шрифта заголовка*/
+    font-size: 30px;/*Размер шрифта заголовка*/
+    font-weight: 90;	/*Высота шрифта заголовка*/
+    padding: 40px 60px;/*Размер поля вокруг текста */
+    background: #80C8A0;/* Цвет фона */
+    text-align: center;/*Текст подвала страницы выравнивается по центру*/
+}
+container {
+  padding: 20px;
+}
+main-content {
+  margin-right: 10px;/**/ 
+  background: #C9CCC8;/*Фон колонки*/ 
+  padding: 30px;/**/ 
+}
+aside {/*Правая колонка*/ 
+  background: #EC5A45;/*Фон колонки*/ 
+  padding: 30px;/**/ 
+  margin-length: 0px;/*Определяет отступ в пикселях*/ 
+  flex-basis: 300px;/*Фиксируем ширину боковой колонки*/ 
+  flex-shrink: 0; /*Значение предотвращает сужение колонки*/ 
+
+	
+table {
+	
+	border-collapse: collapse; /* Убираем двойные линии между ячейками таблицы */
+	
+}
+tbody tr:hover {
+    background: #f3bd48; /* Цвет фона ячейки при наведении */
+    color: blue; /* Цвет текста в ячейке при наведении */
+   }
+ol { 
+}
+ul {
+	
+}
+img {
+    float: right;/*Так изображение плавает справа от текста*/ 
+}
