@@ -3,11 +3,10 @@
 
 <html>
   <head> 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title> "Создание и продвижение сайтов" </title>    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
     <meta name="description" content="Разрабатываем эффективные решения для вашего бизнеса">	
     <link rel="shortcut icon" href="https://atom.io/favicon.ico">
-	<link rel="stylesheet" href="C:/Users/maded/Desktop/index/main.css">
+    <link rel="stylesheet" href="C:/Users/maded/Desktop/index/main.css">
   </head>
   
   <body> 
@@ -21,8 +20,8 @@
 		<br></br>
 		<div class="container">
         <div class="main-content">
-           <h2>Проведем аудит работы ваших инструментов.</h2>
-           <p>Посчитаем сколько приходит, откуда и как долго находится на сайте. </p>
+           <h2> Проведем аудит работы ваших инструментов.</h2>
+           <p> Посчитаем сколько приходит, откуда и как долго находится на сайте. </p>
         </div>
         <br></br>
         <aside>
@@ -32,12 +31,9 @@
         </div>
         <br></br>
         <br></br>
-		
-	
-      
+	   
      <h2 align="center" > Написание оглавлений и гиперссылок.</h2>
-       
-        <ul><b>Список нужных ссылок для работы и отдыха:</b>
+          <ul><b>Список нужных ссылок для работы и отдыха:</b>
           <li><a href="https://www.google.ru/" target="_blanc">Гугл</a></li>
           <li><a href="https://atom.io/" target="_blanc">АТОМ</a></li>
           <li><a href="https://htmlacademy.ru/" target="_blanc">Академия HTML</a></li>
@@ -81,11 +77,9 @@
 		  	  
         <p>Дальше надо переходить к картинкам и таблицам в тексте.</p>
         <hr>
-    	
-		
-        <p>Рисуем таблицу с HTML - это выглядит достаточно скучно. </p>
+    	<p>Рисуем таблицу с HTML - это выглядит достаточно скучно. </p>
         
-		<p> В начале списка точка</p>
+	<p> В начале списка точка</p>
 	    
         <br></br>
         <table border="1"align=center>
