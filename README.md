@@ -30,8 +30,7 @@
         </aside>
         </div>
         <br></br>
-        <br></br>
-	   
+        <br></br>   
      <h2 align="center" > Написание оглавлений и гиперссылок.</h2>
           <ul><b>Список нужных ссылок для работы и отдыха:</b>
           <li><a href="https://www.google.ru/" target="_blanc">Гугл</a></li>
@@ -62,11 +61,9 @@
           <li><a href="https://www.google.ru/" target="_blanc">вот ссылка на ГУГЛ - если он вам нужен</a></li>
           <li><a href="https://www.gismeteo.ru/weather-samara-4618/10-days/">Или вот гисметео</a></li>
           <li><a href="https://pixabay.com/ru/photos/%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5-%D1%88%D0%B0%D1%80%D1%8B-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D1%8B-1786430/" target="_blanc">Бесплатное фото - воздушные шарики</a></li>
-		  
-		 <br></br>
-        <br></br>
-		  </ul>
-		  <p> А можно составить перечень с цифрами в начале строк</p>
+	 </ul>
+	<br></br>
+            <p> А можно составить перечень с цифрами в начале строк</p>
 		  <ol>
 		  <li> Первый пункт</li>
 		  <li> Второй пункт</li>
@@ -74,16 +71,13 @@
 		  <li> Четвертый пункт</li>
 		  <li> Пятый пункт</li>
 		  </ol>
-		  	  
-        <p>Дальше надо переходить к картинкам и таблицам в тексте.</p>
-        <hr>
-    	<p>Рисуем таблицу с HTML - это выглядит достаточно скучно. </p>
-        
-	<p> В начале списка точка</p>
-	    
-        <br></br>
-        <table border="1"align=center>
-          <thead>
+	   <p>Дальше надо переходить к картинкам и таблицам в тексте.</p>
+           <hr>
+    	   <p>Рисуем таблицу с HTML - это выглядит достаточно скучно. </p>
+           <p> начале списка точка</p>
+	   <br></br>
+           <table border="1"align=center>
+           <thead>
             <tr>
               <th>Наименование чего то там</th>
               <th>Сколько всего</th>
@@ -103,18 +97,14 @@
               </tr>
               </tfoot>          
         </table>
-       
-       
         <br></br>
-		<img src="C:\Users\maded\Desktop\index\Кот в очках.jpg" height="200" width="400" alt="">
-		<img src="C:\Users\maded\Desktop\index\Подсолнухи закат.jpg" height="200" width="400" alt="">
+	<img src="C:\Users\maded\Desktop\index\Кот в очках.jpg" height="200" width="400" alt="">
+	<img src="C:\Users\maded\Desktop\index\Подсолнухи закат.jpg" height="200" width="400" alt="">
     	<br></br>
         <br></br>
-		
-		<a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">В начало страницы</a>
-		<br></br>
+	<a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">В начало страницы</a>
+	<br></br>
         <br></br>
-
      <footer <div class="topnav">
           <a class="active" href="#home">Услуги</a>
           <a href="#news">Наши работы</a>
