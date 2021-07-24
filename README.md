@@ -102,7 +102,7 @@
 	<img src="C:\Users\maded\Desktop\index\Подсолнухи закат.jpg" height="200" width="400" alt="">
     	<br></br>
         <br></br>
-	<a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">В начало страницы</a>
+	<a href="file index/index.html#ideveloper">В начало страницы</a>
 	<br></br>
         <br></br>
      <footer <div class="topnav">
