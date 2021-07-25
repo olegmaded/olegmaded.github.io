@@ -30,7 +30,7 @@
       </div>
         <br></br>
         <br></br>   
-     <h2 align="center" > Написание оглавлений и гиперссылок.</h2>
+     <h2> Написание оглавлений и гиперссылок.</h2>
        <ul><b>Список нужных ссылок для работы и отдыха:</b>
           <li><a href="https://www.google.ru/" target="_blanc">Гугл</a></li>
           <li><a href="https://atom.io/" target="_blanc">АТОМ</a></li>
