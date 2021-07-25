@@ -8,7 +8,6 @@
     <link rel="shortcut icon" href="https://atom.io/favicon.ico">
     <link rel="stylesheet" href="C:/Users/maded/Desktop/index/main.css">
   </head>
-  
   <body> 
   <header <div class="topnav">
           <a class="active" href="#home">Услуги</a>
@@ -22,17 +21,17 @@
         <div class="main-content">
            <h2> Проведем аудит работы ваших инструментов.</h2>
            <p> Посчитаем сколько приходит, откуда и как долго находится на сайте. </p>
-        </div>
+      </div>
         <br></br>
         <aside>
            <h2>Составим список рекомендаций по увеличению конверсии</h2>
            <p>По каждому пункту аудита</p>
         </aside>
-        </div>
+      </div>
         <br></br>
         <br></br>   
      <h2 align="center" > Написание оглавлений и гиперссылок.</h2>
-          <ul><b>Список нужных ссылок для работы и отдыха:</b>
+       <ul><b>Список нужных ссылок для работы и отдыха:</b>
           <li><a href="https://www.google.ru/" target="_blanc">Гугл</a></li>
           <li><a href="https://atom.io/" target="_blanc">АТОМ</a></li>
           <li><a href="https://htmlacademy.ru/" target="_blanc">Академия HTML</a></li>
@@ -40,7 +39,7 @@
           <li><a href="https://www.translate.ru/" target="_blanc">Переводчик онлайн</a></li>
           <li><a href="https://pixabay.com/ru/photos/" target="_blanc">Бесплатное фото</a></li>
           <li><a href="https://www.gismeteo.ru/weather-samara-4618/10-days/" target="_blanc">Погода</a></li>
-        </ul>
+      </ul>
         <p>Ссылки из списка полезных сайтов открываются в новом окне - так мне кажется гораздо удобнее и привычнее.
 	<br> Длинные строки в одном параграфе печатать неудобно. Гораздо лучше делать много текста в разных параграфах.
 	<br> Но там больше отступы между параграфами</p>
@@ -48,15 +47,19 @@
 	<br> и переход проходит только по этой странице.</p> 
         <p> Это текст <b> всего абзаца </b> без переноса, <br>а теперь с переносом</p>
         <p> Можно разместить КУРСИВОМ <b><em>КУРСИВОМ</em></b></p>
-        <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY">Гиперссылка для страницы <br> "Обучение HTML за 35 минут"<br></a>
+        <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY">Гиперссылка для страницы 
+	<br>"Обучение HTML за 35 минут"<br></a>
         <p>Открывается ссылка на этой же странице</p>
         <p>Или открывает новое окно с активной ссылкой</p>
-        <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY&amp;t=1280s" target="_blanc"><br>Ролик про обучение в новом окне</a>
+        <a href="https://www.youtube.com/watch?v=4jYYHaTwWvY&amp;t=1280s" target="_blanc">
+	<br>Ролик про обучение в новом окне</a>
         <p> вот так</p>
-        <a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">ссылка переносит в начало текста <br> <b> или можно создать оглавление если текст большой</b></a>
+        <a href="file:///C:/Users/maded/Desktop/index/index.html#ideveloper">ссылка переносит в начало текста 
+	<br> <b> или можно создать оглавление если текст большой</b>
+        </a>
         <hr>
-        <ul><b>Название списка??? или заголовок перечня...</b>
-          <p> В начале списка точка</p>
+        <ul><b>Название списка или заголовок перечня.</b>
+          <p><br></br></p>
           <li>Можно создать списки на странице текст внутри </li>
           <li>длиннные списки того что нужно</li>
           <li>Или того что не нужно</li>
@@ -65,7 +68,7 @@
           <li><a href="https://www.gismeteo.ru/weather-samara-4618/10-days/">Или вот гисметео</a></li>
           <li><a href="https://pixabay.com/ru/photos/%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B5-%D1%88%D0%B0%D1%80%D1%8B-%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D1%8B-1786430/" target="_blanc">Бесплатное фото - воздушные шарики</a></li>
 	 </ul>
-	<br></br>
+	 <br></br>
             <p> А можно составить перечень с цифрами в начале строк</p>
 		  <ol>
 		  <li> Первый пункт</li>
