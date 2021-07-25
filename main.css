@@ -60,54 +60,57 @@ div  {
     width: 50%; /* Ширина блока */
     background: #fc0; /* Цвет фона блока */
     padding: 10px; /* Поля блока*/
-	font-family:Courier New;/*ТИП шрифта в блоке*/
+    font-family:Courier New;/*ТИП шрифта в блоке*/
     font-size: 25px;/*Размер шрифта в блоке*/
-	font-weight: 600;	/*Высота шрифта в блоке*/
+    font-weight: 600;	/*Высота шрифта в блоке*/
     -moz-box-sizing: border-box; /* Для Firefox */
     -webkit-box-sizing: border-box; /* Для Safari и Chrome */
     box-sizing: border-box; /* Для IE и Opera */
-	border: 0px solid #B25538; /*толщина границ блока*/
-	text-align: center;/*Текст заголовка выравнивается по центру*/
-	overflow: auto; /* Добавляем полосы прокрутки */
+    border: 0px solid #B25538; /*толщина границ блока*/
+    text-align: center;/*Текст заголовка выравнивается по центру*/
+    overflow: auto; /* Добавляем полосы прокрутки */
     padding-left: 5px; /* Отступ от текста слева */
-	/*background: url(images/hand.png) repeat-y #fc0; /* Цвет фона,путь к фоновому изображению и повторение фона по вертикали */
+    /*background: url(images/hand.png) repeat-y #fc0; /* Цвет фона,путь к фоновому изображению и повторение фона по вертикали */
 
-   }
+       } 
 footer { /*Подвал страницы*/
+	
     font-family:Courier New;/*ТИП шрифта заголовка*/
     font-size: 30px;/*Размер шрифта заголовка*/
     font-weight: 90;	/*Высота шрифта заголовка*/
     padding: 40px 60px;/*Размер поля вокруг текста */
     background: #80C8A0;/* Цвет фона */
     text-align: center;/*Текст подвала страницы выравнивается по центру*/
-}
+          }
 container {
-  padding: 20px;
-}
+     padding: 20px;
+           }
 main-content {
-  margin-right: 10px;/**/ 
-  background: #C9CCC8;/*Фон колонки*/ 
-  padding: 30px;/**/ 
-}
+     margin-right: 10px;/**/ 
+     background: #C9CCC8;/*Фон колонки*/ 
+     padding: 30px;/**/ 
+           }
 aside {/*Правая колонка*/ 
-  background: #EC5A45;/*Фон колонки*/ 
-  padding: 30px;/**/ 
-  margin-length: 0px;/*Определяет отступ в пикселях*/ 
-  flex-basis: 300px;/*Фиксируем ширину боковой колонки*/ 
-  flex-shrink: 0; /*Значение предотвращает сужение колонки*/ 
-
 	
+     background: #EC5A45;/*Фон колонки*/ 
+     padding: 30px;/**/ 
+     margin-length: 0px;/*Определяет отступ в пикселях*/ 
+     flex-basis: 300px;/*Фиксируем ширину боковой колонки*/ 
+     flex-shrink: 0; /*Значение предотвращает сужение колонки*/ 
+       }
 table {
 	
-	border-collapse: collapse; /* Убираем двойные линии между ячейками таблицы */
+     border-collapse: collapse; /* Убираем двойные линии между ячейками таблицы */
 	
-}
+      }
 tbody tr:hover {
     background: #f3bd48; /* Цвет фона ячейки при наведении */
     color: blue; /* Цвет текста в ячейке при наведении */
    }
 ol { 
+	
 }
+
 ul {
 	
 }
