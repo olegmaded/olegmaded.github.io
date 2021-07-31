@@ -36,8 +36,7 @@
        <ul><b>Список нужных ссылок для работы и отдыха:</b>
           <li><a href="https://www.google.ru/" target="_blanc">Гугл</a></li>
           <li><a href="https://atom.io/" target="_blanc">АТОМ</a></li>
-          <li><a href="https://htmlacademy.ru/" target="_blanc">Академия HTML</a></li>
-          <li><a href="https://www.youtube.com/" target="_blanc">Ютуб - природный неиссякаемый источник знаний </a></li>
+         <li><a href="https://www.youtube.com/" target="_blanc">Ютуб - природный неиссякаемый источник знаний </a></li>
           <li><a href="https://www.translate.ru/" target="_blanc">Переводчик онлайн</a></li>
           <li><a href="https://pixabay.com/ru/photos/" target="_blanc">Бесплатное фото</a></li>
           <li><a href="https://www.gismeteo.ru/weather-samara-4618/10-days/" target="_blanc">Погода</a></li>
