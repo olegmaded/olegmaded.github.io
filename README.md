@@ -79,10 +79,10 @@
 		  <li> Пятый пункт</li>
 		  </ol>
 	   <p>Дальше надо переходить к картинкам и таблицам в тексте.</p>
-           <hr>
+            <hr>
     	   <p>Рисуем таблицу с HTML - это выглядит достаточно скучно. </p>
            <p> начале списка точка</p>
-	     <br></br>
+	      <br></br>
            <table border="1"align=center>
            <thead>
             <tr>
@@ -104,14 +104,14 @@
               </tr>
               </tfoot>          
         </table>
-        <br></br>
+         <br></br>
 	<img src="C:\Users\maded\Desktop\index\Кот в очках.jpg" height="200" width="400" alt="">
 	<img src="C:\Users\maded\Desktop\index\Подсолнухи закат.jpg" height="200" width="400" alt="">
-    	<br></br>
-        <br></br>
+    	 <br></br>
+         <br></br>
 	<a href="file olegmaded.github.io/index.html#ideveloper">В начало страницы</a>
-	<br></br>
-        <br></br>
+	 <br></br>
+         <br></br>
      <footer <div class="topnav">
           <a class="active" href="#home">Услуги</a>
           <a href="#news">Наши работы</a>
