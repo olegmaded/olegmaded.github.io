@@ -86,7 +86,7 @@ container {
      padding: 20px;
            }
 main-content {
-     margin-right: 10px;/**/ 
+     margin-right: 10px;/*отступ справа*/ 
      background: #C9CCC8;/*Фон колонки*/ 
      padding: 30px;/**/ 
            }
