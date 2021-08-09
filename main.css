@@ -85,12 +85,12 @@ footer { /*Подвал страницы*/
           }
 container {
      padding: 20px;
-           }
+          }
 main-content {
      margin-right: 10px;/*отступ справа*/ 
      background: #C9CCC8;/*Фон колонки*/ 
      padding: 30px;/**/ 
-           }
+         }
 aside {/*Правая колонка*/ 
 	
      background: #EC5A45;/*Фон колонки*/ 
