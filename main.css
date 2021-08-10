@@ -76,12 +76,12 @@ div  {
        } 
 footer { /*Подвал страницы*/
 	
-    font-family:Courier New;/*ТИП шрифта заголовка*/
-    font-size: 30px;/*Размер шрифта заголовка*/
-    font-weight: 90;	/*Высота шрифта заголовка*/
-    padding: 40px 60px;/*Размер поля вокруг текста */
-    background: #80C8A0;/* Цвет фона */
-    text-align: center;/*Текст подвала страницы выравнивается по центру*/
+     font-family:Courier New;/*ТИП шрифта заголовка*/
+     font-size: 30px;/*Размер шрифта заголовка*/
+     font-weight: 90;	/*Высота шрифта заголовка*/
+     padding: 40px 60px;/*Размер поля вокруг текста */
+     background: #80C8A0;/* Цвет фона */
+     text-align: center;/*Текст подвала страницы выравнивается по центру*/
           }
 container {
      padding: 20px;
