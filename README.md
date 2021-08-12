@@ -15,7 +15,7 @@
            <a href="#contact">Контакты</a>
            <a href="#about">Рейтинги</a>
         </div> 
-      </header>
+     </header>
         <h1 id="ideveloper">Мы делаем работающие сайты</h1>
 	     <br></br>
 	   <div class="container">
