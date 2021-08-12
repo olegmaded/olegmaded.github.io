@@ -25,7 +25,7 @@ h2 {
     font-variant: small-caps/*Вытягиваем ширину шрифта заголовка*/
      /*text-align: center;/*Текст заголовка выравнивается по центру*/
     }
-h3 {
+h3  {
     color:#0000CD;/*Цвет шрифта заголовка*/
     font-family:URW Chancery L;/*ТИП шрифта заголовка*/
     font-size: 45px;/*Размер шрифта заголовка*/
@@ -89,7 +89,7 @@ main-content {
      margin-right: 10px;/*отступ справа*/ 
      background: #C9CCC8;/*Фон колонки*/ 
      padding: 30px;/**/ 
-         }
+              }
 aside {/*Правая колонка*/ 
 	
      background: #EC5A45;/*Фон колонки*/ 
