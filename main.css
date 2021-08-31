@@ -69,7 +69,6 @@ div  {
     overflow: auto; /* Добавляем полосы прокрутки */
     padding-left: 5px; /* Отступ от текста слева */
      /*background: url(images/hand.png) repeat-y #fc0; /* Цвет фона,путь к фоновому изображению и повторение фона по вертикали */
-
        } 
 footer { /*Подвал страницы*/
      font-family:Courier New;/*ТИП шрифта заголовка*/
@@ -88,7 +87,6 @@ main-content {
      padding: 30px;/**/ 
               }
 aside {/*Правая колонка*/ 
-	
      background: #EC5A45;/*Фон колонки*/ 
      padding: 30px;/**/ 
      margin-length: 0px;/*Определяет отступ в пикселях*/ 
